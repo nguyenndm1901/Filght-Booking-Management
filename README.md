@@ -1,5 +1,5 @@
 # University of Information Technology
-# Software Engineering Faculty
+# Faculty of Software Engineering
 ## Filght Booking Management
 
 ### Members
